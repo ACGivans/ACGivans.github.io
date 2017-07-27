@@ -1,0 +1,82 @@
+/*Orange: #f2710e 
+  Default-Yellow: #fed136
+  NC Blue: #029dff
+*/
+
+.btn-xl{
+    color: white;
+    background-color: #fed136;
+    border-radius: 20px;
+    text-shadow: 2px 2px grey;
+    font-family: ;
+  
+   
+}
+
+.image1{
+    width:190px; 
+    height:180px; 
+    box-shadow: 4px 4px 2px #888888;
+    border-radius: 20px;
+    float: left;
+    margin-right: 15px;
+}
+
+.image2{
+    width:108px; 
+    height:108px; 
+}
+
+section h3.section-subheading2 {
+  font-size: 16px;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
+  font-weight: 400;
+  margin-bottom: 10px;
+  text-align: left;
+
+}
+.intro-lead-in1{
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-size: 28px;
+
+}
+
+.clearbox {
+  line-height: 50px;
+  margin-bottom: 25px;
+  margin: 1px;
+  background-color: black;
+  opacity: 0.8;
+  border-radius: 30px;
+    
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.left {
+    
+    text-align: left;
+}
+
+.linked {
+display: block;
+  background-color: #222222;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 40px;
+  color: white;
+  outline: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
