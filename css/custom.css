@@ -23,7 +23,7 @@
     margin-bottom: 10px;
 }
 
-@media screen and (max-width: 414){
+@media screen and (max-width: 640){
     .image1{
     width:190px; 
     height:180px; 
